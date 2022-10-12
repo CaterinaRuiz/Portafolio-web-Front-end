@@ -1,0 +1,37 @@
+#logo {
+	width: 100px;
+	height: 100px;
+}
+
+#icono {
+	width: 30px;
+	height: 30px;
+}
+
+#next {
+	height: 30px;
+	width: 30px;
+}
+
+#encabezado {
+	font-family: Montserrat, sans-serif;
+
+}
+
+#class-header {
+	 font-family: Offside, cursive;
+
+}
+
+#class-article {
+font-family: 'Scope One', serif;
+
+}
+
+#seccion {
+       font-family: 'Scope One', serif;
+}
+
+#titulo {
+	width: 36px;
+}
